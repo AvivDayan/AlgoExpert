@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using algoExpert.Solutions;
 
 namespace algoExpert
 {
@@ -12,7 +13,8 @@ namespace algoExpert
         {
             //RiverSizesChecker.check();
             //GetNthFibChecker.check();
-            LargestRangeChecker.check();
+            //LargestRangeChecker.check();
+            TwoNumberSumChecker.check();
         }
      
 
