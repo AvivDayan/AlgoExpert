@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace algoExpert
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            // The code provided will print ‘Hello World’ to the console.
-            // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
-
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            //RiverSizesChecker.check();
+            //GetNthFibChecker.check();
+            LargestRangeChecker.check();
         }
+     
+
+        
+
+
     }
 }
