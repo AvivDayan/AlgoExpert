@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solutions\FindClosestValueInBst.cs" />
     <Compile Include="Solutions\GetNthFibChecker.cs" />
     <Compile Include="Solutions\LargestRangeChecker.cs" />
     <Compile Include="Program.cs" />

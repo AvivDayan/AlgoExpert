@@ -14,7 +14,8 @@ namespace algoExpert
             //RiverSizesChecker.check();
             //GetNthFibChecker.check();
             //LargestRangeChecker.check();
-            TwoNumberSumChecker.check();
+            //TwoNumberSumChecker.check();
+            FindClosestValueInBstChecker.check();
         }
      
 
