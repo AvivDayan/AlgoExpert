@@ -10,7 +10,7 @@ namespace algoExpert
     {
         public static void check()
         {
-            Console.WriteLine("GetNthFib:");
+            Console.WriteLine("GetNthFib1111:");
             Console.WriteLine(GetNthFib(5));
         }
 
