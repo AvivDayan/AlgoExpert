@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using algoExpert.Solutions;
+
 namespace algoExpert
 {
     public class Program
@@ -13,7 +14,8 @@ namespace algoExpert
             //RiverSizesChecker.check();
             //GetNthFibChecker.check();
             //LargestRangeChecker.check();
-            ThreeNumberSumChecker.check();
+            //TwoNumberSumChecker.check();
+            FindClosestValueInBstChecker.check();
         }
      
 

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace algoExpert
+namespace algoExpert.Solutions
 {
     class GetNthFibChecker
     {
         public static void check()
         {
-            Console.WriteLine("GetNthFib:");
+            Console.WriteLine("GetNthFib1111:");
             Console.WriteLine(GetNthFib(5));
         }
 
