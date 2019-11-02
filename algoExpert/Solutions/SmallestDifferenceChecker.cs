@@ -11,7 +11,7 @@ public class SmallestDifferenceChecker
         Console.WriteLine("{0}, {1}",res[0],res[1]);
     }
 
-    public static int[] SmallestDifference(int[] arrayOne, int[] arrayTwo)
+    private static int[] SmallestDifference(int[] arrayOne, int[] arrayTwo)
     {
         Array.Sort(arrayTwo);
         int[] pair = new int[2];
