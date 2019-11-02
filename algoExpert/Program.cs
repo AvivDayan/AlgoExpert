@@ -15,7 +15,8 @@ namespace algoExpert
             //GetNthFibChecker.check();
             //LargestRangeChecker.check();
             //TwoNumberSumChecker.check();
-            FindClosestValueInBstChecker.check();
+            //FindClosestValueInBstChecker.check();
+            SmallestDifferenceChecker.check();
         }
      
 
